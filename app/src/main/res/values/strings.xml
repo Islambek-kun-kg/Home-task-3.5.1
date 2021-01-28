@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lesson 3.5.1</string>
+    <string name="EdtName">Edit name.....</string>
+    <string name="EdtNumber">Edit number.....</string>
+    <string name="Save">Сохранить</string>
+    <string name="btn_add">Add</string>
+    <string name="delete">Удалить</string>
+    <string name="call">Позвонить</string>
+    <string name="back">назад</string>
+</resources>
